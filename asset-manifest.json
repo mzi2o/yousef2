@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/yousef2/static/css/main.5278308e.css",
+    "main.js": "/yousef2/static/js/main.c0928a9a.js",
+    "static/media/video2.mp4": "/yousef2/static/media/video2.15899eebc450b185f31c.mp4",
+    "static/media/img14.jpg": "/yousef2/static/media/img14.023c3429d628aea23e40.jpg",
+    "static/media/video1.mp4": "/yousef2/static/media/video1.8bd77ba2e1a0cc3b5ad0.mp4",
+    "static/media/img11.jpg": "/yousef2/static/media/img11.e8c977ce925b899b11bb.jpg",
+    "static/media/img13.jpg": "/yousef2/static/media/img13.1a1451586e8fac7a124e.jpg",
+    "static/media/img15.jpg": "/yousef2/static/media/img15.0c218cdb2fa34b7a0373.jpg",
+    "static/media/img10.jpg": "/yousef2/static/media/img10.13dabd5e063d180ec55c.jpg",
+    "static/media/img12.jpg": "/yousef2/static/media/img12.630df7725fe8580a15aa.jpg",
+    "static/media/img1.jpg": "/yousef2/static/media/img1.9a829c97de8bf6aaa178.jpg",
+    "static/media/img2.jpg": "/yousef2/static/media/img2.18923d26375824b8e361.jpg",
+    "static/media/img3.jpg": "/yousef2/static/media/img3.c7f81e8d1ffa638d112d.jpg",
+    "static/media/img4.jpg": "/yousef2/static/media/img4.0b5a2277a58884aa248f.jpg",
+    "static/media/img6.jpg": "/yousef2/static/media/img6.984acd3029885a57f521.jpg",
+    "static/media/img9.jpg": "/yousef2/static/media/img9.a57e53e3747482107029.jpg",
+    "static/media/img5.jpg": "/yousef2/static/media/img5.79313b2d8b1ad7076e3d.jpg",
+    "static/media/img7.jpg": "/yousef2/static/media/img7.cfff469c8b024902d8c3.jpg",
+    "static/media/img8.jpg": "/yousef2/static/media/img8.7b0733aa19ef04c9289e.jpg",
+    "static/media/img16.jpg": "/yousef2/static/media/img16.0580dbde3d3cc1cacdaa.jpg",
+    "static/media/img17.jpg": "/yousef2/static/media/img17.880e05b7b656e55bf9fb.jpg",
+    "index.html": "/yousef2/index.html",
+    "main.5278308e.css.map": "/yousef2/static/css/main.5278308e.css.map",
+    "main.c0928a9a.js.map": "/yousef2/static/js/main.c0928a9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5278308e.css",
+    "static/js/main.c0928a9a.js"
+  ]
+}
